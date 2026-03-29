@@ -117,19 +117,3 @@ Market sentiment plays a crucial role in shaping trader behavior and risk exposu
 
 ---
 
-## ▶️ How to Run
-
-1. Open the Jupyter Notebook
-2. Install required libraries:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Run all cells step-by-step
-
----
-
-## 📎 Submission
-
-This project was completed as part of the Data Science Intern assignment for Primetrade.ai.
-
