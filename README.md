@@ -113,7 +113,13 @@ Created key features for analysis:
 
 ## 📌 Conclusion
 
-Market sentiment plays a crucial role in shaping trader behavior and risk exposure. While it does not directly determine profitability, understanding sentiment-driven patterns can significantly improve trading strategies and decision-making.
+## 9. Conclusion
+
+Market sentiment plays a critical role in shaping trader behavior, particularly in terms of risk-taking, trade frequency, and position sizing. 
+
+Fear phases drive higher activity and larger trades due to volatility, while Greed phases often lead to overconfidence and significant losses.
+
+Overall, profitability is influenced less by win rate and more by risk management, highlighting the importance of disciplined trading strategies in different market conditions.
 
 ---
 
